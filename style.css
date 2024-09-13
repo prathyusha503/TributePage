@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(238, 241, 255);
+    text-align: center;
+}
+h1{
+    color: brown;
+    font-size: 60px;
+}
+img{
+    height: 600px;
+    width: 1000px;
+}
+.about{
+    color: brown;
+    font-weight: bold;
+
+}
+.box{
+    background-color: rgb(255, 255, 255);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 20px;
+    border-color: black;
+    box-shadow: 10px 10px 20px black;
+    border-style: solid;
+}
+h3{
+    text-align: left;
+}
+.para{
+    text-align: left;
+}
+.p1{
+    text-align: left;
+}
+.p2{
+    color: brown;
+}
